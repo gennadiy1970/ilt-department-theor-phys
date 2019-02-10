@@ -1,0 +1,59 @@
+{
+  "nav.link.home": "Головна",
+  "nav.link.about": "О нас",
+  "nav.link.contacts": "Контакти",
+  "contacts.h1.title": "Сторінка контактів",
+  "home.h1.title": "Головна сторінка",
+  "about.h1.title": "Сторінка о нас",
+  "footer.div.title": "Поточний час",
+  "nav.link.user": "Користувач",
+
+  "first_name.oksana": "Оксана",
+  "first_name.mikhail": "Михайло",
+  "first_name.olga": "Ольга",
+  "first_name.ilya": "Ілля",
+
+  "last_name.bogdan": "Богдан",
+  "last_name.krive": "Кріве",
+  "last_name.charkina": "Чаркіна",
+  "last_name.iljinskaya": "Ильїнська",
+
+  "research_area.charkina": "The theory of nonlinear phenomena in condensed matter physics based on the soliton concept and its applications for description of nonlinear effects in solids",
+  "research_area.bogdan": "The theory of nonlinear phenomena in condensed matter physics based on the soliton concept and its applications for description of nonlinear effects in solids",
+  "research_area.iljinskaya": "Nanoelectromechanics of shuttle systems, Thermoelectric properties of quantum dot-based devices",
+
+  "futher_name.mikhail.m": "Михайлович",
+  "futher_name.mikhail.w": "Михайлівна",
+  "futher_name.victor.w": "Вікторівна",
+  "futher_name.victor.m": "Вікторович",
+
+  "ilt_name": "Фізико-технічний інститут низьких температур ім. Б.І. Вєркіна",
+  "ilt_adress": "Проспект Науки, 47, Харків, 61103, Україна",
+
+  "ilt.department.head": "Завідувач відділу",
+  "ilt.secretary": "Секретар",
+  "leading.researcher": "ведучий науковий співробітник",
+  "researcher": "науковий співробітник",
+  "junior_researcher": "молодший науковий співробітник",
+  "fax": "факс",
+  "tel": "тел.",
+  "email": "email",
+
+  "monographies": "Монографії",
+  "history": "Історія відділу",
+  "results": "Досягнення",
+  "dissertations": "Дисертації",
+  "awards_and_grants": "Премії та гранти ",
+  "international_cooperation": "Співробітництво",
+  "we_remember": "Ми пам'ятаємо",
+
+  "research_area": "Напрямки досліджень",
+  "post_graduated_phd.short": "к.ф.-м.н",
+  "post_graduated_phd": "кандидат фізико-математичних наук",
+  "post_graduated_dsc.short": "д.ф.-м.н",
+  "post_graduated_dsc": "доктор фізико-математичних наук",
+
+  "theor_phys_common.name": "Відділ теоретичної фізики",
+  "main_achievements": "Головними досягненнями є наступні",
+  "last_5_years_activity": "Last five years activity and current interests"
+}

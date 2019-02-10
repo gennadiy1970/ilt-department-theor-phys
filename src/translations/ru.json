@@ -1,0 +1,59 @@
+{
+  "nav.link.home": "Главная",
+  "nav.link.about": "О нас",
+  "nav.link.contacts": "Контакты",
+  "contacts.h1.title": "Страница контактов",
+  "home.h1.title": "Главная страница",
+  "about.h1.title": "Страница о нас",
+  "footer.div.title": "Текущая дата",
+  "nav.link.user": "Пользователь",
+
+  "first_name.oksana": "Оксана",
+  "first_name.mikhail": "Михаил",
+  "first_name.olga": "Ольга",
+  "first_name.ilya": "Илья",
+
+  "last_name.bogdan": "Богдан",
+  "last_name.krive": "Криве",
+  "last_name.charkina": "Чаркина",
+  "last_name.iljinskaya": "Ильинская",
+
+  "research_area.charkina": "The theory of nonlinear phenomena in condensed matter physics based on the soliton concept and its applications for description of nonlinear effects in solids",
+  "research_area.bogdan": "The theory of nonlinear phenomena in condensed matter physics based on the soliton concept and its applications for description of nonlinear effects in solids",
+  "research_area.iljinskaya": "Nanoelectromechanics of shuttle systems, Thermoelectric properties of quantum dot-based devices",
+
+  "futher_name.mikhail.m": "Михайлович",
+  "futher_name.mikhail.w": "Михайловна",
+  "futher_name.victor.w": "Викторовна",
+  "futher_name.victor.m": "Викторович",
+
+  "ilt_name": "Физико-технический институт низких температур им. Б.И. Веркина",
+  "ilt_adress": "Проспект Науки, 47, Харьков, 61103, Украина",
+
+  "ilt.department.head": "Заведующий отделом",
+  "ilt.secretary": "Секретарь",
+  "leading.researcher": "ведущий научный сотрудник",
+  "researcher": "научный сотрудник",
+  "junior_researcher": "младший научный сотрудник",
+  "fax": "факс",
+  "tel": "тел.",
+  "email": "email",
+
+  "monographies": "Монографии",
+  "history": "История",
+  "results": "Результаты",
+  "we_remember": "Мы помним",
+  "dissertations": "Диссертации",
+  "international_cooperation": "Сотрудничество",
+  "awards_and_grants": "Премии и гранты",
+
+  "research_area": "Направление исследований",
+  "post_graduated_phd.short": "к.ф.-м.н",
+  "post_graduated_phd": "кандидат физико-математических наук",
+  "post_graduated_dsc.short": "д.ф.-м.н",
+  "post_graduated_dsc": "доктор физико-математических наук",
+
+  "theor_phys_common.name": "Отдел теоретической физики",
+  "main_achievements": "Основные достигнутые результаты",
+  "last_5_years_activity": "Last five years activity and current interests"
+}
